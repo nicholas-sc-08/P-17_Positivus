@@ -22,7 +22,7 @@
 .container_conteudo_banner h1 {
 
     width: 85%;
-    height: 30%;
+    height: 40%;
 
     font-family: var(--t_um);
     font-size: 3.5rem;
@@ -81,6 +81,6 @@
 
 .container_imagem_banner img{
 
-    width: 80%;
+    width: 70%;
     background-color: transparent;
 }

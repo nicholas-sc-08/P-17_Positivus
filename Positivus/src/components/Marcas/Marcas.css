@@ -11,8 +11,9 @@
 
 .container_marcas a{
 
-
-    width: 12%;
+    display: flex;
+    justify-content: center;
+    width: 10%;
     height: fit-content;
     background-color: transparent;
 }
