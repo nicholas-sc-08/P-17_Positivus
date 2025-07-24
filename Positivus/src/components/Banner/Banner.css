@@ -1,0 +1,86 @@
+.container_banner {
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    width: 90%;
+    height: 85%;
+    background-color: transparent;
+}
+
+.container_conteudo_banner {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    width: 70%;
+    background-color: transparent;
+}
+
+.container_conteudo_banner h1 {
+
+    width: 85%;
+    height: 30%;
+
+    font-family: var(--t_um);
+    font-size: 3.5rem;
+    font-weight: 550;
+
+    color: var(--c_dois);
+    background-color: transparent;
+}
+
+.container_conteudo_banner p {
+
+    width: 85%;
+    height: 20%;
+    font-family: var(--t_um);
+    font-size: 1.2rem;
+    font-weight: 500;
+
+    color: var(--c_dois);
+    background-color: transparent;
+}
+
+.container_conteudo_banner button{
+
+    width: 40%;
+    height: 8%;
+
+    cursor: pointer;
+    transition: 0.3s;
+
+    font-family: var(--t_um);
+    font-size: 1.2rem;
+    font-weight: 550;
+
+    border: 0.1vw solid var(--c_dois);
+    border-radius: 0.5vw;
+
+    color: var(--c_tres);
+    background-color: var(--c_dois);
+}
+
+.container_conteudo_banner button:hover{
+
+    color: var(--c_dois);
+    background-color: var(--c_um);
+}
+
+.container_imagem_banner{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    width: 100%;
+    height: 100%;
+}
+
+.container_imagem_banner img{
+
+    width: 80%;
+    background-color: transparent;
+}
