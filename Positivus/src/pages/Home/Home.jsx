@@ -1,6 +1,7 @@
 import './Home.css';
 import Header from '../../components/Header/Header.jsx';
 import Banner from '../../components/Banner/Banner.jsx';
+import Marcas from '../../components/Marcas/Marcas.jsx';
 
 function Home() {
   return (
@@ -8,6 +9,7 @@ function Home() {
 
         <Header/>
         <Banner/>
+        <Marcas/>
 
     </div>
   )

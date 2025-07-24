@@ -1,0 +1,32 @@
+.container_marcas{
+
+    display: flex;
+    justify-content: space-between;
+
+    width: 90%;
+    height: 25%;
+
+    align-items: center;
+}
+
+.container_marcas a{
+
+
+    width: 12%;
+    height: fit-content;
+    background-color: transparent;
+}
+
+.container_marcas img{
+
+    cursor: pointer;
+    transition: 0.3s;
+
+    width: 85%;
+    background-color: transparent;
+}
+
+.container_marcas img:hover{
+
+    width: 95%;
+}
