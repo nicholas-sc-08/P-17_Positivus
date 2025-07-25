@@ -1,8 +1,9 @@
-.container_home{
+.container_home {
+ 
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    width: 100%;
-    height: 100%;
+  width: 100%;
+  background-color: var(--c_tres);
 }
