@@ -20,7 +20,21 @@ function Section_cards() {
             <section className="container_section_um_cards">
 
                 <Otimizacao />
-                <Click/>
+                <Click />
+
+            </section>
+
+            <section className="container_section_dois_cards">
+
+                <Otimizacao />
+                <Click />
+
+            </section>
+
+            <section className="container_section_tres_cards">
+
+                <Otimizacao />
+                <Click />
 
             </section>
 

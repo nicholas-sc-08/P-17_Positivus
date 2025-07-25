@@ -54,3 +54,23 @@
     width: 100%;
     height: 25%;
 }
+
+.container_section_dois_cards{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    width: 100%;
+    height: 25%;
+}
+
+.container_section_tres_cards{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    width: 100%;
+    height: 25%;
+}
