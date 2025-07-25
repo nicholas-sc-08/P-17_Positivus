@@ -1,6 +1,10 @@
 import "./Section_cards.css";
 import Otimizacao from '../Otimização/Otimizacao.jsx';
 import Click from '../Click/Click.jsx';
+import Social_media from "../Social Media/Social_media.jsx";
+import Email from "../Email/Email.jsx";
+import Conteudo from "../Conteudo/Conteudo.jsx";
+import Analise from "../Analise/Analise.jsx";
 
 function Section_cards() {
     return (
@@ -26,15 +30,15 @@ function Section_cards() {
 
             <section className="container_section_dois_cards">
 
-                <Otimizacao />
-                <Click />
+                <Social_media />
+                <Email />
 
             </section>
 
             <section className="container_section_tres_cards">
 
-                <Otimizacao />
-                <Click />
+                <Conteudo />
+                <Analise />
 
             </section>
 

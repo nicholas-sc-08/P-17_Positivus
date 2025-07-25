@@ -8,9 +8,9 @@ function Click() {
 
         <h3>Pay-per-click-adversing</h3>
 
-        <div className="container_saiba_mais">
+        <div className="container_saiba_mais_click">
 
-          <img src="./images/Cards/Otimization/Seta.svg" alt="" />
+          <img src="./images/Cards/Click/Seta.svg" alt="" />
           <span>Learn More</span>
         </div>
 

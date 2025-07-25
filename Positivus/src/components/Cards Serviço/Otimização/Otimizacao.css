@@ -44,7 +44,7 @@
     background-color: var(--c_um);
 }
 
-.container_saiba_mais{
+.container_saiba_mais_otimizacao{
 
     display: flex;
     align-items: center;
@@ -53,9 +53,11 @@
     width: 70%;
 }
 
-.container_saiba_mais span{
+.container_saiba_mais_otimizacao span{
 
     font-family: var(--t_um);
     font-size: 1.1rem;
     font-weight: 550;
+
+    color: var(--c_dois);
 }

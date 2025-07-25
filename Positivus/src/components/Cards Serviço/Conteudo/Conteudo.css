@@ -1,0 +1,63 @@
+.container_card_conteudo{
+
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+    cursor: pointer;
+    transition: 0.3s;
+
+    width: 45%;
+    height: 90%;
+
+    border-radius: 3vw;
+    border: 0.1vw solid var(--c_dois);
+    box-shadow: 0px 5px 0px 0px rgba(25, 26, 35, 1);
+    
+    background-color: var(--c_um);
+}
+
+.container_card_conteudo:hover{
+
+    width: 48%;
+    height: 95%;
+}
+
+.container_conteudo_c_conteudo{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 40%;
+    height: 90%;
+
+}
+
+.container_conteudo_c_conteudo h3{
+
+    width: 60%;
+    font-family: var(--t_um);
+    font-size: 1.8rem;
+
+    border: 0.3vw solid var(--c_tres);
+    border-radius: 0.5vw;
+    background-color: var(--c_tres);
+}
+
+.container_saiba_mais_conteudo{
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    width: 70%;
+}
+
+.container_saiba_mais_conteudo span{
+
+    font-family: var(--t_um);
+    font-size: 1.1rem;
+    font-weight: 550;
+
+    color: var(--c_dois);
+}
