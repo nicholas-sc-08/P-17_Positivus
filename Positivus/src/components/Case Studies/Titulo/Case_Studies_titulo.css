@@ -1,0 +1,32 @@
+.container_case_studies_titulo{
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 60%;
+    height: 40%;
+}
+
+.container_case_studies_titulo h2{
+
+    font-family: var(--t_um);
+    font-size: 2rem;
+    font-weight: 600;
+
+    border-radius: 0.5vw;
+    border: 0.5vw solid var(--c_um);
+    
+    color: var(--c_dois);
+    background-color: var(--c_um);
+}
+
+.container_case_studies_titulo span{
+
+    width: 70%;
+
+    font-family: var(--t_um);
+    font-size: 1rem;
+    font-weight: 400;
+
+    color: var(--c_dois);
+}

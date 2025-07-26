@@ -100,5 +100,7 @@
 .container_botao_header button:hover{
 
     border: 0.1vw solid var(--c_dois);
-    background-color: var(--c_um);
+
+    color: var(--c_tres);
+    background-color: var(--c_dois);
 }

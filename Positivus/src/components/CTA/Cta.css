@@ -62,7 +62,7 @@
     align-items: center;
 
     width: 45%;
-    height: 20%;
+    height: 22%;
 }
 
 .container_alinhamento_button_cta button{
@@ -75,7 +75,7 @@
 
     font-size: 1rem;
     font-family: var(--t_um);
-    font-weight: 500;
+    font-weight: 400;
 
     border-radius: 1vw;
     border: 0.1vw solid var(--c_dois);

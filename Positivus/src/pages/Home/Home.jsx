@@ -4,6 +4,7 @@ import Banner from '../../components/Banner/Banner.jsx';
 import Marcas from '../../components/Marcas/Marcas.jsx';
 import Section_cards from '../../components/Cards Serviço/Section Cards/Section_cards.jsx';
 import Cta from '../../components/CTA/Cta.jsx';
+import Section_case_studies from '../../components/Case Studies/Section Case Studies/Section_case_studies.jsx';
 
 function Home() {
   return (
@@ -14,6 +15,7 @@ function Home() {
       <Marcas />
       <Section_cards/>
       <Cta/>
+      <Section_case_studies/>
 
     </div>
   )

@@ -1,0 +1,173 @@
+.container_painel_case_studies{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    width: 100%;
+    height: 50%;
+
+    border: 3vw solid var(--c_dois);
+    border-radius: 3vw;
+    background-color: var(--c_dois);
+}
+
+.container_case_study_um{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 80%;
+    height: 75%;
+
+    border-right: 0.1vw solid var(--c_tres);
+}
+
+.alinhamento_botao_case_study_um{
+
+    width: 85%;
+}
+
+.container_case_study_um p{
+
+    width: 85%;
+
+    font-family: var(--t_um);
+    font-size: 1.1rem;
+
+    color: var(--c_tres);
+}
+
+.container_case_study_um button{
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    cursor: pointer;
+    transition: 0.3s;
+
+    font-family: var(--t_um);
+    font-size: 1rem;
+    font-weight: 400;
+
+    width: 40%;
+    height: 100%;
+
+    border: 0px;
+
+    color: var(--c_um);
+    background-color: var(--c_dois);
+}
+
+.container_case_study_um button:hover{
+
+    text-decoration: underline;
+}
+
+.container_case_study_dois{
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    width: 80%;
+    height: 75%;
+
+    border-right: 0.1vw solid var(--c_tres);
+}
+
+.container_case_study_dois p{
+
+    width: 85%;
+
+    font-family: var(--t_um);
+    font-size: 1.1rem;
+
+    color: var(--c_tres);
+}
+
+.alinhamento_botao_case_study_dois{
+
+    width: 85%;
+}
+
+.container_case_study_dois button{
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    cursor: pointer;
+    transition: 0.3s;
+
+    font-family: var(--t_um);
+    font-size: 1rem;
+    font-weight: 400;
+
+    width: 45%;
+    height: 100%;
+
+    border: 0px;
+
+    color: var(--c_um);
+    background-color: var(--c_dois);
+}
+
+.container_case_study_dois button:hover{
+
+    text-decoration: underline;
+}
+
+.container_case_study_tres{
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    
+    width: 80%;
+    height: 75%;
+}
+
+.container_case_study_tres p{
+
+    width: 85%;
+
+    font-family: var(--t_um);
+    font-size: 1.1rem;
+
+    color: var(--c_tres);
+}
+
+.container_case_study_tres button{
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    cursor: pointer;
+    transition: 0.3s;
+
+    font-family: var(--t_um);
+    font-size: 1rem;
+    font-weight: 400;
+
+    width: 40%;
+    height: 100%;
+
+    border: 0px;
+
+    color: var(--c_um);
+    background-color: var(--c_dois);
+}
+
+.container_case_study_tres button:hover{
+
+    text-decoration: underline;
+}
+
+.alinhamento_botao_case_study_tres{
+
+    width: 85%;
+}
