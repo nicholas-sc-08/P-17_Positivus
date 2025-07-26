@@ -21,7 +21,7 @@ function Faq_um() {
     } else {
 
       set_icone_botao(`./images/FAQ/+.svg`);
-      set_altura_div(`20%`);
+      set_altura_div(`15%`);
       set_altura_titulo(`80%`);
       set_display_texto(`none`);
     };

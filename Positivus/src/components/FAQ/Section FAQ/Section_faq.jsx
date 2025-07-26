@@ -13,6 +13,11 @@ function Section_faq() {
         
         <FAQ_titulo/>
         <Faq_um/>
+        <Faq_dois/>
+        <Faq_tres/>
+        <Faq_quatro/>
+        <Faq_cinco/>
+        <Faq_seis/>
 
     </div>
   )
