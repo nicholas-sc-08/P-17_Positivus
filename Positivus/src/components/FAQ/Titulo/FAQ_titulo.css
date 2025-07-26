@@ -1,0 +1,35 @@
+.container_faq_titulo {
+
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+    height: 10%;
+}
+
+.container_faq_titulo h2 {
+
+    width: fit-content;
+    height: 60%;
+
+    font-size: 2rem;
+    font-weight: 600;
+    font-family: var(--t_um);
+
+    border-radius: 0.5vw;
+    border: 1vw solid var(--c_um);
+
+    color: var(--c_dois);
+    background-color: var(--c_um);
+}
+
+.container_faq_titulo span {
+
+    display: flex;
+    align-items: end;
+
+    width: 40%;
+    height: 60%;
+    font-family: var(--t_um);
+    font-size: 1rem;
+    font-weight: 400;
+}
