@@ -12,7 +12,7 @@ function Section_faq() {
     <div className="container_section_faq">
         
         <FAQ_titulo/>
-        
+        <Faq_um/>
 
     </div>
   )
